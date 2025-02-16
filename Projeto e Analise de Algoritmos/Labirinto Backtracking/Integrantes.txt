@@ -1,0 +1,4 @@
+Projeto e Análise de Algorítmos 2 - Projeto 1 - Labirinto com Backtracking
+
+Daniel Rubio Camargo - RA: 10408823
+João Pedro Mascaro Baccelli - RA: 10224004
